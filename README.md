@@ -44,7 +44,9 @@ Trained with 100 road images.
 
 ### Making Folder
 At this directory.
+
 `mkdir data`
+
 `mkdir output`
 
 ### Dataset
