@@ -60,12 +60,6 @@ Need to put `road` folder under `./data` folder.
 
 
 
-## Test
-
-`python test.py`
-
-You will have an output example in `./output/test_output.png`.
-
 ## Train and Test
 
 1, Make sure you have training data under `./data` folder.
