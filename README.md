@@ -52,7 +52,11 @@ At this directory.
 ### Dataset
 Example data is from KITTI road dataset.
 
-Download from [here](https://drive.google.com/open?id=1NwEgQtup5Wdl2lR13twjgFdMcOzaj-GM)(80Mb). Need to put under `./data` folder.
+Download from [here](https://drive.google.com/open?id=1NwEgQtup5Wdl2lR13twjgFdMcOzaj-GM)(80Mb). 
+
+Download `road` folder.
+
+Need to put `road` folder under `./data` folder.
 
 
 
